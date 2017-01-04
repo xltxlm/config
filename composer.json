@@ -8,8 +8,7 @@
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "xltxlm/helper": "*"
+    "php": ">=7.0"
   },
   "require-dev": {
     "xltxlm/scrutinizer": "*",
